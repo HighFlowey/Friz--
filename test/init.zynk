@@ -1,0 +1,9 @@
+let a to 10
+let b to 30
+
+print(a)
+
+print(
+    a,
+    b,
+)
